@@ -1,0 +1,1 @@
+start cmd /k  "node schoolNet.js && exit "
