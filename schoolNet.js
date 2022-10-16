@@ -6,9 +6,9 @@ const password = ''
 // 账号
 const username = ''
 // 运营商 中国移动=2 中国电信=3  中国联通=4
-const channel = 4
+const channel = '4'
 // 是否漫游 0否 1是
-const ifautologin = 0
+const ifautologin = '0'
 
 let headers = {
     'Origin': 'http://10.255.255.34',
